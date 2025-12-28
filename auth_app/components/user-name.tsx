@@ -8,6 +8,7 @@ export default async function UserName() {
   return (
     <div>
       <h1> {session.user.name} </h1>
+      <h1> Email: {session.user.email} </h1>
     </div>
   )
 }

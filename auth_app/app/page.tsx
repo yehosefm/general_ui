@@ -11,8 +11,6 @@ export default function Home() {
       <br/>
       <UserName></UserName>
       </div>
-
-
     </div>
   );
 }
